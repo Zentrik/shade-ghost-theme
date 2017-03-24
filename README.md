@@ -1,5 +1,7 @@
 # Shade
 
+Thanks to [moso](https://github.com/moso/shade-ghost-theme) for crating this theme.
+
 Simple theme for my website using [Ghost](http://github.com/tryghost/ghost/).
 
 # Features
@@ -10,7 +12,9 @@ Simple theme for my website using [Ghost](http://github.com/tryghost/ghost/).
 - Websafe fonts: [Roboto Slab](https://fonts.google.com/specimen/Roboto+Slab) for headings and [Roboto](https://fonts.google.com/specimen/Roboto) for main text.
 - Syntax highlighting with [PrismJS](https://github.com/PrismJS/prism) and selfmade theme inspired by [Predawn](https://github.com/jamiewilson/predawn).
 
-You can find a live example [here](https://ghost.moso.io).
+You can find a live example [here](https://neonnuke.tech).
+
+The original file can be found [here](https://ghost.moso.io).
 
 # Editing the source
 Install the node modules:
