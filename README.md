@@ -1,6 +1,6 @@
 # Shade
 
-Thanks to [moso](https://github.com/moso/shade-ghost-theme) for crating this theme.
+Thanks to [moso](https://github.com/moso/shade-ghost-theme) for creating this theme.
 
 Simple theme for my website using [Ghost](http://github.com/tryghost/ghost/).
 
