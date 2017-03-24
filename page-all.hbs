@@ -17,6 +17,7 @@
 </header>
 
 {{! The main content area on the homepage }}
+{{#get "posts" limit="all" include="author,tags"}}
 <main class="content">
   <div class="container">
     <div class="row">
@@ -26,7 +27,7 @@
         <article class="{{post_class}}">
           <div class="post-header">
             <span class="post-meta"><time datetime="{{date format='DD. MMM, YYYY'}}">{{date format="DD. MMM, YYYY"}}</time>{{#if tags}} on {{tags}}{{/if}}</span>
-            <a href="{{url}}amp/">Link to mobile friendly page</a>
+            <a href="{{url}}amp/">Link to mobile friendly page</a>	
             <h2 class="post-title"><a href="{{url}}">{{{title}}}</a></h2>
           </div>
           <section class="post-excerpt">
@@ -39,3 +40,4 @@
     </div>
   </div>
 </main>
+{{/get}}
