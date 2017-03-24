@@ -4,6 +4,13 @@ Thanks to [moso](https://github.com/moso/shade-ghost-theme) for creating this th
 
 Simple theme for my website using [Ghost](http://github.com/tryghost/ghost/).
 
+#Installing
+
+```
+cd /var/www/ghost/content/themes/
+git clone https://github.com/Zentrik/shade-ghost-theme
+```
+
 # Features
 
 - Bootstrap 4 alpha-4 and Flexbox.
