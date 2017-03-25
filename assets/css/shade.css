@@ -8,7 +8,7 @@
 @import 'https://cdn.cloudcache.dk/fonts/roboto-draft/css/roboto-draft.css';
 @import 'https://cdn.cloudcache.dk/fonts/liberation-mono/css/liberation-mono.css';
 @import 'https://cdn.cloudcache.dk/materialdesignicons/1.6.50/css/materialdesignicons.min.css';
-@import 'https://moso.io/sri/themes/predawn.css';
+
 html {
   height: 100%;
   max-height: 100%;
@@ -90,7 +90,22 @@ a {
     color: rgba(255, 255, 255, 0.54); }
 
 pre, code {
-  font-family: "Liberation Mono", Menlo, Consolas, Monaco, "Lucida Console", monospace; }
+  font-family: "Liberation Mono", Menlo, Consolas, Monaco, "Lucida Console", monospace; 
+  color: #BD4147; }
+
+pre {
+            -moz-box-sizing: border-box;
+            overflow: auto;
+            box-sizing: border-box;
+            margin: 0 0 1.75em 0;
+            padding: 10px;
+            width: 100%;
+            border: #e3edf3 1px solid;
+            background: #f7fafb;
+            border-radius: 5px;
+            white-space: pre;
+            font-family: Inconsolcata, monospace, sans-serif;
+            font-size: 0.9em; }
 
 .tag {
   font-size: 100%;
