@@ -95,7 +95,7 @@ pre, code {
 
 pre {
             -moz-box-sizing: border-box;
-            overflow-x:scroll
+            overflow-x:scroll;
             box-sizing: border-box;
             margin: 0 0 1.75em 0;
             padding: 10px;
