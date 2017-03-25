@@ -21,7 +21,7 @@ git clone https://github.com/Zentrik/shade-ghost-theme
 
 You can find a live example [here](https://neonnuke.tech).
 
-The original file can be found [here](https://ghost.moso.io).
+The original theme's example can be found [here](https://ghost.moso.io).
 
 # Editing the source
 Install the node modules:
