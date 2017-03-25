@@ -95,7 +95,7 @@ pre, code {
 
 pre {
             -moz-box-sizing: border-box;
-            overflow: auto;
+            overflow-x:scroll
             box-sizing: border-box;
             margin: 0 0 1.75em 0;
             padding: 10px;
@@ -103,7 +103,6 @@ pre {
             border: #e3edf3 1px solid;
             background: #f7fafb;
             border-radius: 5px;
-            white-space: pre;
             font-family: Inconsolcata, monospace, sans-serif;
             font-size: 0.9em; }
 
