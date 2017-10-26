@@ -7,8 +7,8 @@ Simple theme for my website using [Ghost](http://github.com/tryghost/ghost/).
 #Installing
 
 ```
-cd /var/www/ghost/content/themes/
-git clone https://github.com/Zentrik/shade-ghost-theme
+Download the latest release from [https://github.com/Zentrik/shade-ghost-theme/releases/](https://github.com/Zentrik/shade-ghost-theme/releases/).
+Then navigate to yourblogdomain.com/ghost/#/settings/design (the Settings>Design page in Ghost Admin) then click the Upload a Theme button and follow the on-screen instructions.
 ```
 
 # Features
