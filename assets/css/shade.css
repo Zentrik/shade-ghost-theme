@@ -4,10 +4,8 @@
  * Copyright (c) 2016 Morten Sørensen
  * Licensed under MIT (https://github.com/moso/shade-ghost-theme/blob/master/LICENSE)
  */
-@import 'https://cdn.cloudcache.dk/fonts/roboto-slab/css/roboto-slab.css';
-@import 'https://cdn.cloudcache.dk/fonts/roboto-draft/css/roboto-draft.css';
-@import 'https://cdn.cloudcache.dk/fonts/liberation-mono/css/liberation-mono.css';
-@import 'https://cdn.cloudcache.dk/materialdesignicons/1.6.50/css/materialdesignicons.min.css';
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:300,400');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono');
 
 html {
   height: 100%;
@@ -17,7 +15,7 @@ html {
 body {
   height: 100%;
   max-height: 100%;
-  font-family: "Roboto Draft", Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Roboto Slab", Roboto, "Helvetica Neue", Helvetica, Arial, serif;
   font-size: 1.125rem;
   font-weight: 300;
   color: #CFD8DC;
@@ -90,7 +88,7 @@ a {
     color: rgba(255, 255, 255, 0.54); }
 
 pre, code {
-  font-family: "Liberation Mono", Menlo, Consolas, Monaco, "Lucida Console", monospace; 
+  font-family: "Roboto Mono", Menlo, Consolas, Monaco, "Lucida Console", monospace; 
   color: #BD4147; }
 
 pre {
@@ -103,7 +101,7 @@ pre {
             border: #e3edf3 1px solid;
             background: #f7fafb;
             border-radius: 5px;
-            font-family: Inconsolcata, monospace, sans-serif;
+            font-family: "Roboto Mono", monospace, sans-serif;
             font-size: 0.9em; }
 
 .tag {

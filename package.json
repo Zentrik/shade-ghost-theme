@@ -1,6 +1,6 @@
 {
   "name": "shade-ghost-theme-dev",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "null",
   "main": "gulpfile.js",
   "dependencies": {},
@@ -11,11 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moso/shade-ghost-theme.git"
+    "url": "https://github.com/Zentrik/shade-ghost-theme"
   },
-  "author": [
-    "Morten Sørensen (morten@moso.io)"
-  ],
+  "author": {
+    "name" : "The creator is Morten Sørensen (morten@moso.io)",
+	  "email": "shadehelp@neonnuke.tech"
+  },
   "license": "MIT (https://github.com/moso/shade-ghost-theme/blob/master/LICENSE)",
-  "homepage": "https://github.com/moso/shade-ghost-theme"
+  "homepage": "https://github.com/moso/shade-ghost-theme",
+  "config": {
+    "posts_per_page": 10
+  }
 }
