@@ -23,16 +23,5 @@ You can find a live example [here](https://neonnuke.tech).
 
 The original file can be found [here](https://ghost.moso.io).
 
-# Editing the source
-Install the node modules:
-```
-npm install
-```
-
-Do your edits, and then compile the SCSS to CSS with gulp:
-```
-gulp
-```
-
 # Issues?
 Please report any issues and missing stuff.

@@ -1,13 +1,8 @@
 {
   "name": "shade-ghost-theme-dev",
   "version": "1.1.2",
-  "description": "null",
-  "main": "gulpfile.js",
-  "dependencies": {},
-  "devDependencies": {
-    "gulp": "^3.9.1",
-    "gulp-sass": "^2.3.2",
-    "gulp-watch": "^4.3.9"
+  "description": "null"
+
   },
   "repository": {
     "type": "git",
